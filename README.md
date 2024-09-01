@@ -11,11 +11,6 @@ Pytorch implementation of AnimeGAN for fast photo animation
 * [Demo and Docker image on Replicate](https://replicate.ai/ptran1203/pytorch-animegan)
 * Sample anime video: https://youtu.be/fqccty32G3Q
 
-| Input                          | Animation                           |
-|--------------------------------|-------------------------------------|
-| ![c2](./example/video/original.mp4) | ![g2](./example/video/original.mp4) |
- <!--                           | ![c1](./example/video/anime.mp4)       |![g1](./example/video/anime.mp4)| -->
-
 
 ## Quick start
 
