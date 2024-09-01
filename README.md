@@ -1,4 +1,6 @@
-# AnimeGAN Pytorch <a href="https://colab.research.google.com/github/ptran1203/pytorch-animeGAN/blob/master/notebooks/animeGAN_inference.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+# AnimeGAN Pytorch 
+
+[//]: # (<a href="https://colab.research.google.com/github/ptran1203/pytorch-animeGAN/blob/master/notebooks/animeGAN_inference.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a>)
 
 
 Pytorch implementation of AnimeGAN for fast photo animation
@@ -9,10 +11,10 @@ Pytorch implementation of AnimeGAN for fast photo animation
 * [Demo and Docker image on Replicate](https://replicate.ai/ptran1203/pytorch-animegan)
 * Sample anime video: https://youtu.be/fqccty32G3Q
 
-| Input | Animation |
-|--|--|
-|![c2](./example/gif/giphy.gif)|![g2](./example/gif/giphy_anime.gif)|
-<!-- |![c1](./example/gif/city.gif)|![g1](./example/gif/city_anime.gif)| -->
+| Input                          | Animation                           |
+|--------------------------------|-------------------------------------|
+| ![c2](./example/gif/giphy.gif) | ![g2](./example/video/original.mp4) |
+ <!--                           | ![c1](./example/gif/city.gif)       |![g1](./example/video/anime.mp4)| -->
 
 
 ## Quick start
@@ -57,8 +59,8 @@ predictor.transform_file(url, "anime.jpg")
 
 ## Train on custom dataset
 
-- Training notebook on [Google colab](https://colab.research.google.com/github/ptran1203/pytorch-animeGAN/blob/master/notebooks/animeGAN.ipynb)
-- Inference notebook on [Google colab](https://colab.research.google.com/github/ptran1203/pytorch-animeGAN/blob/master/notebooks/animeGAN_inference.ipynb)
+- Training notebook on [Google colab](https://colab.research.google.com/drive/1B20gf97jiUkMD9hS-RZndBo_DPwHTyTk?usp=sharing)
+- Inference notebook on [Google colab](https://colab.research.google.com/drive/1ZJkdf3AmouMP2_2CAgjrp8JzwzGkPk_Z?usp=sharing)
 
 
 ### 1. Prepare dataset
