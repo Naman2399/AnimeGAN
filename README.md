@@ -54,8 +54,9 @@ predictor.transform_file(url, "anime.jpg")
 
 ## Train on custom dataset
 
-- Training notebook on [Google colab](https://colab.research.google.com/drive/1B20gf97jiUkMD9hS-RZndBo_DPwHTyTk?usp=sharing)
-- Inference notebook on [Google colab](https://colab.research.google.com/drive/1ZJkdf3AmouMP2_2CAgjrp8JzwzGkPk_Z?usp=sharing)
+[//]: # (- Training notebook on [Google colab]&#40;https://colab.research.google.com/drive/1B20gf97jiUkMD9hS-RZndBo_DPwHTyTk?usp=sharing&#41;)
+
+[//]: # (- Inference notebook on [Google colab]&#40;https://colab.research.google.com/drive/1ZJkdf3AmouMP2_2CAgjrp8JzwzGkPk_Z?usp=sharing&#41;)
 
 
 ### 1. Prepare dataset
