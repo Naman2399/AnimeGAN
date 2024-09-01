@@ -1,0 +1,3 @@
+python inference.py --weight hayao:v2 --src /mnt/hdd/karmpatel/naman/demo/gan_anime/src_images_test --out /mnt/hdd/karmpatel/naman/demo/gan_anime/target_images_test
+
+python inference.py --weight hayao:v2 --src /mnt/hdd/karmpatel/naman/demo/gan_anime/src_video_test/movie_trailer.mp4 --out /mnt/hdd/karmpatel/naman/demo/gan_anime/target_video_test/movie_trailer.mp4
